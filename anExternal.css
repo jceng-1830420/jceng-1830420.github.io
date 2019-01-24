@@ -2,22 +2,22 @@ body {
     background-color: lightblue;
   }
   
-  h2 {
+h2 {
     color: plum;
     margin-left: 20px;
   }
-  .container {
+.container {
     position: relative;
     text-align: center;
     color: white;
   }
-  .centered {
+.centered {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
   }
-  img {
+img {
     float:left;
     border-radius: 50px;
     background: #73AD21;
